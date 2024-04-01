@@ -1,10 +1,14 @@
 <h1 align="center">Merhaba, ben Hilal 👻</h1>
 <h3 align="center">Full Stack Developer</h3>
-- 🔭 Ne üzerinde çalışıyorum? **Yapay Zeka ve Görüntü İşleme Teknikleri Kullanılarak Görme Engelli Bireylere Yönelik Türkçe Seslendirme Destekli Nesne Tanıma Cihazı Prototipi**
-- 🌱Şu anda ne öğreniyorum? **Angular ile Web Geliştirme**
-
-- 📫 Bana ulaşman için: **hilalseyhann@gmail.com**
-- 📝Yazılarım için: **https://medium.com/@hilalseyhann**
+<br>
+- 🔭 Ne üzerinde çalışıyorum? Yapay Zeka ve Görüntü İşleme Teknikleri Kullanılarak Görme Engelli Bireylere Yönelik Türkçe Seslendirme Destekli Nesne Tanıma Cihazı Prototipi
+<br>
+- 🌱 Şu anda ne öğreniyorum? Angular ile Web Geliştirme
+<br>
+- 📫 Bana ulaşman için: hilalseyhann@gmail.com
+<br>
+- 📝 Yazılarım için: https://medium.com/@hilalseyhann
+<br>
 
 <div> <a href="https://www.linkedin.com/in/hilalseyhann" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/hilal__seyhan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
