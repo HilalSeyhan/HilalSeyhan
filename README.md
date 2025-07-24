@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba, ben Hilal 👻</h1>
-<h3 align="center">Cloud Platforms Operations Assistant Specialist</h3>
+<h1 align="center">Merhaba, ben Hilal 🌌☁️</h1>
+<h3 align="center">Cloud Platforms Operations Assistant Specialist ☁️</h3>
 <br>
 - 🔭 Ne üzerinde çalışıyorum? Yapay Zeka ve Görüntü İşleme Teknikleri Kullanılarak Görme Engelli Bireylere Yönelik Türkçe Seslendirme Destekli Nesne Tanıma Cihazı Prototipi ~ TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma 
 Projeleri Programı Destekli Projem
