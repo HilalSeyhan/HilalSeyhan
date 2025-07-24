@@ -16,7 +16,8 @@ Projeleri Programı Destekli Projem
 
 <h3 align="left">Benimle İletişime Geç:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hilalseyhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="hilalseyhann" height="30" width="40" /></a><a href="https://instagram.com/hilal__seyhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="hilal__seyhan" height="30" width="40" /></a><a href="https://medium.com/@hilalseyhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@hilalseyhann" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/hilalseyhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="hilalseyhann" height="30" width="40" /></a>
+<a href="https://medium.com/@hilalseyhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@hilalseyhann" height="30" width="40" /></a></p>
 
 <h3 align="left">Kullandığım Diller ve Araçlar:</h3>
 <p align="left">
